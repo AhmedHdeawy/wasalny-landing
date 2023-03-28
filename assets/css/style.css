@@ -703,7 +703,11 @@ p {
       font-size: 18px;
       border: 0;
       width: 30px;
-      height: 30px; } }
+      height: 30px; } 
+      .navbar-brand img {
+        max-width: 50px;
+      }
+  }
   .navbar-nav .sub-nav-toggler span {
     width: 8px;
     height: 8px;
